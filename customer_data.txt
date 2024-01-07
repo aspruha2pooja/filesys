@@ -1,0 +1,36 @@
+DETAILS OF CUSTOMER
+Name: aspruha
+Age: 23
+Job: trainee
+
+Name: ayushman
+Age: 24
+Job: trainee
+
+Name: pooja
+Age: 13
+Job: engineer
+
+Name: poo
+Age: 41
+Job: weee
+
+Name: rutesh
+Age: 23
+Job: student
+
+Name: pooja
+Age: 56
+Job: reaagb
+
+Name: poo
+Age: 78
+Job: evcgf
+
+Name: kkk
+Age: 12
+Job: sdfdf
+
+Name: pooiu
+Age: 23
+Job: fhgj
